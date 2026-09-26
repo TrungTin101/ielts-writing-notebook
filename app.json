@@ -4,10 +4,14 @@
     "slug": "ielts-writing-notebook",
     "version": "1.0.0",
     "orientation": "default",
+            "web": {
+      "favicon": "./assets/7-5-gpt.png"
+    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.local.ieltswritingnotebook"
     },
+
     "android": {
       "package": "com.local.ieltswritingnotebook"
     }
