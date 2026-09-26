@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "IELTS Writing Notebook",
+    "slug": "ielts-writing-notebook",
+    "version": "1.0.0",
+    "orientation": "default",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.local.ieltswritingnotebook"
+    },
+    "android": {
+      "package": "com.local.ieltswritingnotebook"
+    }
+  }
+}
